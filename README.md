@@ -1,3 +1,42 @@
-###🏨 Rooms Management Dashboard
-- A simple Rooms Management Dashboard built with React, TypeScript, Tailwind CSS, and JSON Server as a mock backend.
+# 🏨 Rooms Management System
+
+A full-stack room management application built with **React**, **Tailwind CSS**, and **JSON Server**. This project provides a simple interface for managing hotel rooms including CRUD operations, pagination, image support, and authentication.
+
+---
+
+## 🚀 Features
+
+- 🔐 **Login Authentication** with validation
+- 🏠 **Dashboard** to manage all rooms
+- ➕ **Create Room** with images and facilities
+- 📝 **Edit Room** information
+- ❌ **Delete Room** with confirmation
+- 👁️ **View Room Details** in a modal
+- 🔄 **Pagination** for efficient data handling
+- 🖼️ **Room Image Display** with fallback image
+- 🍞 **Notifications** using React Toastify
+- 🧠 **Code Splitting** & organized component structure
+
+---
+
+## 🧪 Technologies Used
+
+| Frontend        | Backend (Mock API) | Tools & Styling     |
+|-----------------|-------------------|----------------------|
+| React           | JSON Server       | Tailwind CSS         |
+| React Router    |                   | React Icons          |
+| React Toastify  |                   | Postman (API testing) |
+| Axios           |                   | Git & GitHub         |
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+### 2. Install dependencies
 
