@@ -37,6 +37,28 @@ A full-stack room management application built with **React**, **Tailwind CSS**,
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-
+```
 ### 2. Install dependencies
+
+ ```bash
+npm install
+```
+### 3. Run JSON Server (Mock Backend)
+
+```bash
+npx json-server --watch db.json --port 4000
+```
+4. Start the React App
+
+``` bash
+nom run dev
+```
+# 🔐 Login Credentials
+
+- Use the following credentials to log in:
+
+- Email: amira@gmail.com
+
+- Password: amira123
+
 
