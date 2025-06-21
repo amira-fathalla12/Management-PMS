@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "amira@gmail.com",
+      "password": "amira123"
+    }
+  ],
+  "dashboard": {
+    "rooms": 8,
+    "facilities": 5,
+    "ads": 3,
+    "bookings": {
+      "completed": 10,
+      "pending": 2
+    },
+    "users": {
+      "admin": 1,
+      "user": 7
+    }
+  },
+  "rooms": [
+    {
+      "id": "1",
+      "roomNumber": "101",
+      "images": ["https://unsplash.it/200/200?image=1"],
+      "price": 120,
+      "discount": 10,
+      "capacity": 3
+    },
+    {
+      "id": "2",
+      "roomNumber": "102",
+      "images": ["https://unsplash.it/200/200?image=2"],
+      "price": 150,
+      "discount": 0,
+      "capacity": 2
+    },
+    {
+      "id": "3",
+      "roomNumber": "103",
+      "images": ["https://unsplash.it/200/200?image=3"],
+      "price": 200,
+      "discount": 15,
+      "capacity": 4
+    },
+    {
+      "id": "4",
+      "roomNumber": "104",
+      "images": ["https://unsplash.it/200/200?image=4"],
+      "price": 180,
+      "discount": 5,
+      "capacity": 2
+    },
+    {
+      "id": "5",
+      "roomNumber": "105",
+      "images": ["https://unsplash.it/200/200?image=5"],
+      "price": 170,
+      "discount": 10,
+      "capacity": 3
+    },
+    {
+      "id": "6",
+      "roomNumber": "106",
+      "images": ["https://unsplash.it/200/200?image=6"],
+      "price": 160,
+      "discount": 8,
+      "capacity": 2
+    },
+    {
+      "id": "7",
+      "roomNumber": "107",
+      "images": ["https://unsplash.it/200/200?image=7"],
+      "price": 190,
+      "discount": 0,
+      "capacity": 5
+    },
+    {
+      "id": "8",
+      "roomNumber": "108",
+      "images": ["https://unsplash.it/200/200?image=8"],
+      "price": 175,
+      "discount": 12,
+      "capacity": 4
+    },
+    {
+      "id": "9",
+      "roomNumber": "109",
+      "images": ["https://unsplash.it/200/200?image=9"],
+      "price": 155,
+      "discount": 9,
+      "capacity": 3
+    },
+    {
+      "id": "10",
+      "roomNumber": "110",
+      "images": ["https://unsplash.it/200/200?image=10"],
+      "price": 165,
+      "discount": 6,
+      "capacity": 2
+    },
+    {
+      "id": "11",
+      "roomNumber": "111",
+      "images": ["https://unsplash.it/200/200?image=11"],
+      "price": 210,
+      "discount": 20,
+      "capacity": 5
+    },
+    {
+      "id": "12",
+      "roomNumber": "112",
+      "images": ["https://unsplash.it/200/200?image=12"],
+      "price": 140,
+      "discount": 10,
+      "capacity": 3
+    },
+    {
+      "id": "13",
+      "roomNumber": "113",
+      "images": ["https://unsplash.it/200/200?image=13"],
+      "price": 150,
+      "discount": 5,
+      "capacity": 2
+    },
+    {
+      "id": "14",
+      "roomNumber": "114",
+      "images": ["https://unsplash.it/200/200?image=14"],
+      "price": 135,
+      "discount": 7,
+      "capacity": 2
+    },
+    {
+      "id": "15",
+      "roomNumber": "115",
+      "images": ["https://unsplash.it/200/200?image=15"],
+      "price": 125,
+      "discount": 0,
+      "capacity": 1
+    }
+  ]
+}
